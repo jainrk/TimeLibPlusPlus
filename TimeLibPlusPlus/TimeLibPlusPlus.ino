@@ -24,7 +24,7 @@ int timeZone = -7;  // Pacific Daylight Time (USA)
 #include "NISTClass.h"
 #include "DS1307RTCClass.h"
 
-#include <WiFiConnect.h>
+#include <WiFiConnect.h> //https://github.com/jainrk/WiFiConnect
 #include <ESP8266WiFi.h>
 
 #define aSSID  "mySSID"
